@@ -1,2 +1,4 @@
 # hello-world
-my  first repository
+
+Hi!
+I'm RandoDeadpool.  I am studying Computer Security in college.
